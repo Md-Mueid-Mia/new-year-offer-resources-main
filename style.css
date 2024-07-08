@@ -87,7 +87,7 @@
     max-height: 500px;
     margin-top: 48px;
 }
-..image-container img{
+.image-container img{
     width: 100%;
     height: 100%;
 }
